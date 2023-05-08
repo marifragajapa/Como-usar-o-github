@@ -1,6 +1,6 @@
 # Novo repositório
 
 ```
-Criando apps no JS
+Criando app.js 
 ```
->Novo
+>Novo app install 
